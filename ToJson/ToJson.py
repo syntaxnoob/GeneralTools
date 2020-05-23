@@ -1,5 +1,5 @@
 #!/bin/python3
-
+# Made by Syntaxnoob
 import json
 
 # Importing the HTML file.
