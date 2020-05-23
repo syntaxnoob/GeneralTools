@@ -25,3 +25,5 @@ go to your operating system's terminal/commandline and type in: `pep3 install js
 2. Locate your html file and place the script in the same directory.
 3. Open your commandline/terminal and type: `python3 ToJson.py` .
 4. A search.json file can be found in that directory.
+
+If you use this script, please give credit to 'Syntaxnoob'.
