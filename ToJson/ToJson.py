@@ -38,6 +38,6 @@ print("klaar")
 
 # Dump to json file.
 
-with open('zoek.json', 'w') as f:
+with open('search.json', 'w') as f:
     json.dump(searches, f, indent=2)
 f.close()
