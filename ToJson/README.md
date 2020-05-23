@@ -1,10 +1,10 @@
 # ToJson
 
-A python3 script that I used to transfer my google data from an HTML file to Json.
+A python3 script that I used to transfer my youtube search data(google takeout) from an HTML file to a Json file.
 
 ### Method
 
-The script reads the html file to a string.
+The script reads the html file to a string.\n
 The first and last 'Searched for' items in the string will be found.
 A while loop will extract the 'search' and 'date' form the string.
 All the results well be saved to a search.json file
